@@ -1,16 +1,15 @@
-## Hi there 👋
+## c4pkin 👋
 
-<!--
-**c4pkin/c4pkin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Discord](https://discord.com/api/guilds/1167160872666402826/widget.png)
 
-Here are some ideas to get you started:
+![c4pkin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=c4pkin&show_icons=true&theme=dark&count_private=true)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=c4pkin&layout=compact&theme=dark)
+
+### Connect with me:
+[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/c4pkindevelopment)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@c4pkinDev)
+[![NimoTV](https://img.shields.io/badge/NimoTV-8000FF?style=for-the-badge&logo=nimotv&logoColor=white)](https://www.nimo.tv/live/5861025840)
+
+ :dizzy: future or no?
+
